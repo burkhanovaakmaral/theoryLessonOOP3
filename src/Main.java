@@ -5,7 +5,8 @@ public class Main {
 
         Fish fish = new Fish("Trout",5,"Small","Gray","River","Wild");
          Fish fish1 = new Fish(" Trout");
-
+        System.out.println("bye");
+        System.out.println("bye");
 
 
 
